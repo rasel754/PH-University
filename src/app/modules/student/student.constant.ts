@@ -1,0 +1,1 @@
+export  const studentSearcheAbleFiled = ['email', 'name.firstName', 'presentAddress'];

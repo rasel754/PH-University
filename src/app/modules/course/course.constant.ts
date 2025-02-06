@@ -1,0 +1,1 @@
+export const  courseSearchAbleFileds =['title ' , 'prefix' , 'code'];
