@@ -5,7 +5,6 @@ import { AuthService } from './auth.service';
 import config from '../../config';
 
 const loginUser = catchAsync(async (req, res) => {
-  console.log(req.user, req.body);
 
   // const userDate = req.user;
 
